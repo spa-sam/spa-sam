@@ -10,6 +10,8 @@ function chooseYourCoffee(drink) {
         console.log("Interesting choice, but not the Mandalorian way.");
     }
 }
+```
+
 
 <!--
 **spa-sam/spa-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
